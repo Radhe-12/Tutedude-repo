@@ -11,7 +11,7 @@ This repository contains two beginner-level Python programs that demonstrate:
 
 ## 🔢 Program 1: Basic Mathematical Operations
 
-**Filename**: `math_operations.py` (you can name your file this)
+**Filename**: Task1
 
 ### 💡 Description:
 This program takes two numeric inputs from the user and performs the following operations:
@@ -22,4 +22,12 @@ This program takes two numeric inputs from the user and performs the following o
 - Division (with error handling for division by zero)
 
 ### ✅ Sample Output:
+
+Enter a number: 10
+Enter second number: 2
+
+Addition of two numbers: 12.0
+Subtraction of two numbers: 8.0
+Multiplication of two numbers: 20.0
+Division of two numbers: 5.0
 
