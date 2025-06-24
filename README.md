@@ -24,6 +24,7 @@ This program takes two numeric inputs from the user and performs the following o
 ### ✅ Sample Output:
 
 Enter a number: 10
+
 Enter second number: 2
 
 Addition of two numbers: 12.0
