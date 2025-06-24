@@ -35,3 +35,20 @@ Multiplication of two numbers: 20.0
 
 Division of two numbers: 5.0
 
+
+
+
+---
+
+## 👤 Program 2: Name Concatenation
+
+**Filename**: `Task2` (you can name your file this)
+
+### 💡 Description:
+This program takes the user's first and second names as input and combines them into a full name.
+
+### ✅ Sample Output:
+
+Enter your first name: radhe
+Enter your second name: Jadli
+Hello radhe shyam welcome to the python course
