@@ -50,5 +50,7 @@ This program takes the user's first and second names as input and combines them 
 ### ✅ Sample Output:
 
 Enter your first name: radhe
+
 Enter your second name: Jadli
+
 Hello radhe shyam welcome to the python course
