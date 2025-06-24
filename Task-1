@@ -1,1 +1,13 @@
-First task
+num1 = int(input("Enter a number "))
+num2 = int(input("Enter second number "))
+
+addition = num1 + num2
+sub = num1 - num2
+multiplication = num1 * num2
+division = num1 / num2
+
+print("Result :")
+print("addition of two numbers: ", addition)
+print("substraction of two number: ", sub)
+print("multiplication of two numbers: ", multiplication)
+print("division of two numbers: ", division)
