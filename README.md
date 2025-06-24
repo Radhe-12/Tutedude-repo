@@ -42,7 +42,7 @@ Division of two numbers: 5.0
 
 ## 👤 Program 2: Name Concatenation
 
-**Filename**: `Task2` (you can name your file this)
+**Filename**: Task2
 
 ### 💡 Description:
 This program takes the user's first and second names as input and combines them into a full name.
