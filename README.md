@@ -28,7 +28,10 @@ Enter a number: 10
 Enter second number: 2
 
 Addition of two numbers: 12.0
+
 Subtraction of two numbers: 8.0
+
 Multiplication of two numbers: 20.0
+
 Division of two numbers: 5.0
 
