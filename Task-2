@@ -1,1 +1,6 @@
-second tasks
+name = input("Enter your first name: ")
+name2 = input("Enter your second name: ")
+
+com = name + " " + name2
+
+print("Hello", com, "welcome to the python course")
